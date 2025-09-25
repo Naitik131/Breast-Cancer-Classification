@@ -15,9 +15,9 @@ Scikit-learn
 
 🚀 Results
 
-Achieved ~97–99% accuracy using ensemble models.
+Achieved ~97–99% accuracy using Logistic Regression model.
 
-Compared Logistic Regression, Random Forest, and XGBoost/Neural Nets.
+
 
 📂 Files
 
