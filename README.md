@@ -1,3 +1,28 @@
-# Breast-Cancer-Classification
-This project builds a machine learning model to classify tumors as benign (non-cancerous) or malignant (cancerous) using the Breast Cancer Wisconsin (Diagnostic) dataset. The goal is to demonstrate the application of classification algorithms such as Logistic Regression.
-I have used Plotly for EDA.
+🩺 Breast Cancer Classification
+📌 Overview
+
+This project uses machine learning to classify breast tumors as benign or malignant based on the Breast Cancer Wisconsin dataset.
+
+⚙️ Tech Stack
+
+Python
+
+NumPy, Pandas
+
+Matplotlib, Seaborn, Plotly
+
+Scikit-learn
+
+🚀 Results
+
+Achieved ~97–99% accuracy using ensemble models.
+
+Compared Logistic Regression, Random Forest, and XGBoost/Neural Nets.
+
+📂 Files
+
+notebook.ipynb → Main notebook
+
+requirements.txt → Dependencies
+
+README.md → Project description
